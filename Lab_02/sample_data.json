@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "name": "  andrii koval  ",
+    "city": "lviv",
+    "transactions": [
+      2500.0,
+      4100.0,
+      1800.0
+    ]
+  },
+  {
+    "id": 102,
+    "name": "olena melnyk",
+    "city": "Kyiv",
+    "transactions": [
+      6200.0,
+      3400.0
+    ]
+  },
+  {
+    "id": 103,
+    "name": "  taras shevchenko ",
+    "city": "Lviv",
+    "transactions": [
+      1200.0,
+      950.0
+    ]
+  },
+  {
+    "id": 104,
+    "name": "iryna bondar",
+    "city": "Odesa",
+    "transactions": [
+      5500.0,
+      2900.0,
+      1100.0
+    ]
+  },
+  {
+    "id": 105,
+    "name": "maksym savchenko",
+    "city": "lviv",
+    "transactions": [
+      4800.0,
+      5200.0
+    ]
+  },
+  {
+    "id": 106,
+    "name": "sofiia petrenko",
+    "city": "Kharkiv",
+    "transactions": [
+      3100.0,
+      2400.0
+    ]
+  }
+]
